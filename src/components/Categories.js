@@ -1,4 +1,4 @@
-import {useState} from 'react'
+import '../styles/Categories.css'
 
 function Categories({categoriesList, setSelectedCategory, selectedCategory}) {
 
